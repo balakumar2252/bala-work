@@ -1,0 +1,16 @@
+YES BALA, TELL ABOUT YOURSELF
+-----------------------------
+
+Hi, myself Balakumar , am currently working in Transol systems private limited with 3.3 years of experience in both automation and Manual testing.
+I have an experience in Java with selenium webdriver for automation testing along with using various frameworks like testng , data driven , cucumber bdd with junit  and we use POM design pattern for maintaing our locators in page wise.
+And i have worked in two projects , both of it e-commerce domain.
+initially i started my career in manual testing , where i used to work in test planning ,  test case writing , test execution  and reporting , in the same project i used to write a automation code for existing testcases using testng framework with java selenium.
+In my current we using cucmber bdd framework with junit where i used to write a feature file and stepdefiniton files and test execute and reporting.
+In my organization , we using git for source code management tool , Jira for project management and bug tracking tools ,[In Jira, our userstory will be posted in scrum board ]and  eclipse and maven build management tool and jenkins as a continous integration and contionous deployment tool.
+And i have experienced in SDLC AND STLC , in our project we follwing Agile-scrum methodlogy with two weeks of sprint where i actively participate in spring meetings like planning , review meet , retrospectives and daily stand up calls...
+
+
+..........................................
+Duration in first project around 1. 6 exp
+In my current pro around 2 years
+..........................................
